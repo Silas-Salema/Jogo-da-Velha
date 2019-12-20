@@ -1,0 +1,10 @@
+C:\Users\Silas1\source\repos\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe.config
+C:\Users\Silas1\source\repos\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.exe
+C:\Users\Silas1\source\repos\Jogo da Velha\Jogo da Velha\bin\Debug\Jogo da Velha.pdb
+C:\Users\Silas1\source\repos\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.csprojAssemblyReference.cache
+C:\Users\Silas1\source\repos\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo_da_Velha.Properties.Resources.resources
+C:\Users\Silas1\source\repos\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.csproj.GenerateResource.cache
+C:\Users\Silas1\source\repos\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.exe
+C:\Users\Silas1\source\repos\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo da Velha.pdb
+C:\Users\Silas1\source\repos\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo_da_Velha.Form2.resources
+C:\Users\Silas1\source\repos\Jogo da Velha\Jogo da Velha\obj\Debug\Jogo_da_Velha.Form1.resources
